@@ -1,7 +1,7 @@
 {
   "name": "services-state",
   "scope": "beatthat",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Mechanim AnimatorController behaviours and bindable properties connected to beatthat/services",
   "main": "index.js",
   "scripts": {
